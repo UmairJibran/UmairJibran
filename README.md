@@ -6,6 +6,8 @@
 - 💬 Ask me about Peshawar (Tech's spike)
 - ⚡ Fun fact: If I'm not found here, I'll most probably be hiking!
 - 😄 Pronouns: him/he
+
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=UmairJibran&show_icons=false">
 <!--
 **UmairJibran/UmairJibran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
