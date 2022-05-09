@@ -7,6 +7,11 @@
 - ⚡ Fun fact: If I'm not found here, I'll most probably be hiking!
 - 😄 Pronouns: him/he
 
+<p align="center">
+	<img width="625em" src="https://github.com/umairjibran/umairjibran/blob/master/github-metrics.svg" />
+</p>
+<br>
+
 <!--
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=UmairJibran&count_private=true&show_icons=true">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairjibran">
