@@ -8,7 +8,7 @@
 - 😄 Pronouns: him/he
 
 <p align="center">
-	<img width="625em" src="https://github.com/umairjibran/umairjibran/blob/master/github-metrics.svg" />
+	<img width="625em" src="./github-metrics.svg" />
 </p>
 <br>
 
