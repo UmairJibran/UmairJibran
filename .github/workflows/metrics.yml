@@ -43,7 +43,7 @@ jobs:
           plugin_habits_days: 14
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
+          plugin_habits_languages_threshold: repositories_batch
           plugin_languages: yes
           plugin_languages_aliases: javascript:JS typescript:TS
           plugin_languages_analysis_timeout: 15
