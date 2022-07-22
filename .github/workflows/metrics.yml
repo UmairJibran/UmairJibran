@@ -10,6 +10,8 @@ on:
     - cron:  '59 23 1,6,11,16,21,26 * *'
   workflow_dispatch:
   push: {branches: ["master", "main"]}
+  pull_request:
+    branches: '*'
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
