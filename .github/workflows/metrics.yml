@@ -18,13 +18,13 @@ jobs:
           # Options
           user: umairjibran
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           config_timezone: Asia/Karachi
           plugin_followup: no
           plugin_followup_sections: repositories, user
           plugin_lines: no
           plugin_habits: yes
-          plugin_introduction: yes
+          plugin_introduction: no
           plugin_achievements: yes
           plugin_achievements_only: >-
             polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
