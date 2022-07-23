@@ -18,7 +18,7 @@ jobs:
           # Options
           user: umairjibran
           template: classic
-          base: header, activity, repositories
+          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Karachi
           plugin_followup: no
           plugin_followup_sections: repositories, user
