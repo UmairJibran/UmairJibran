@@ -21,7 +21,7 @@ jobs:
           base: header, activity, community, repositories
           config_timezone: Asia/Karachi
           plugin_followup: no
-          plugin_followup_sections: repositories, user
+          plugin_followup_sections: repositories
           plugin_lines: no
           plugin_habits: yes
           plugin_introduction: no
