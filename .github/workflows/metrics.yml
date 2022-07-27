@@ -3,7 +3,7 @@ name: Metrics
 on:
   # Schedule updates
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 12/24 * * *" # runs every day at 17:00 GMT +05:00
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push:
