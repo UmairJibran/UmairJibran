@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on WEB Projects
-- 🤔 I’m looking for help with centering a div, (really!)
+- 🤔 I’m looking for help with Life-Work balance.
 - 💬 Ask me about Peshawar 🏙️, Greek Mythology 🗿, Game of Thrones 👑.
 - ⚡ Fun fact: If I'm not found here, I'll most probably be hiking!
 - 😄 Pronouns: him/he
