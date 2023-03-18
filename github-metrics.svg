@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            8623 Commits
+                            8626 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="438.7865872259717" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="438.7865872259717" y="0" width="9.886265867249229" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="448.6728530932209" y="0" width="4.813542741229467" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="453.4863958344504" y="0" width="2.920030606756492" height="8" fill="#f7931e"/>
-                    <rect mask="url(#languages-bar)" x="456.4064264412068" y="0" width="1.5716095906262302" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="457.9780360318331" y="0" width="0.8414578873730632" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="458.81949391920614" y="0" width="0.7271863491055284" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="459.5466802683117" y="0" width="0.45331973168830414" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="438.7866073172748" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="438.7866073172748" y="0" width="9.886256503929594" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="448.6728638212044" y="0" width="4.8135381823050105" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="453.4864020035094" y="0" width="2.920027841184508" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="456.4064298446939" y="0" width="1.5716081021488684" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="457.9780379468428" y="0" width="0.8414570904251292" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="458.81949503726787" y="0" width="0.7271856603845986" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="459.54668069765245" y="0" width="0.45331930234747914" height="8" fill="#a91e50"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -290,7 +290,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 30.2 characters per line of code written</li>
+                        <li>Has approximately 29.4 characters per line of code written</li>
                         <li>Mostly pushes code around 14:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -375,7 +375,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 97.5k out of 111m users</span>
+                                    <span class="gh">ranked 97.6k out of 111m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">127</div>
                                     </div>
