@@ -1,31 +1,15 @@
-### Hello there 👋
-
-- 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate on WEB Projects
-- 🤔 I’m looking for help with Life-Work balance.
-- 💬 Ask me about Peshawar 🏙️, Greek Mythology 🗿, Game of Thrones 👑.
-- ⚡ Fun fact: If I'm not found here, I'll most probably be hiking!
-- 😄 Pronouns: him/he
-
 <p align="center">
+	<samp>
+		Hi, I'm (Umair) Jibran! 👋 <br />
+		🔥 Fullstack Developer <br />
+		:email: me@umairjibran.com <br />
+		:art: Portfolio: https://umairjibran.com <br />
+		👯 I’m looking to collaborate on WEB Projects <br />
+		🤔 I’m looking for help with my Life-Work balance. <br />
+		💬 Convo Starter: Peshawar 🏙️, Greek Mythology 🗿, Game of Thrones 👑.
+		<br />
+		⚡ Fun fact: I'll probably be hiking if I'm not found here! <br />
+	</samp>
 	<img width="625em" src="./github-metrics.svg" />
 </p>
 <br>
-
-<!--
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=UmairJibran&count_private=true&show_icons=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairjibran">
-<img src="https://komarev.com/ghpvc/?username=umairjibran&label=Profile+Visits&color=dc143c">
-**UmairJibran/UmairJibran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
