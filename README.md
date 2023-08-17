@@ -1,5 +1,6 @@
 <p align="center">
 	<samp>
+		👋 <br />
 		Hi, I'm <br />
 		(Umair) Jibran!<br />
 		Full-stack Developer <br />
