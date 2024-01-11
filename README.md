@@ -11,6 +11,7 @@
 		⚡ fun fact: I'll probably be hiking if I'm not found here! <br />
 		💬 convo starter: Peshawar 🏙️, Greek Mythology 🗿, Game of Thrones 👑. <br />
 	</samp>
+	<a href="https://techforpalestine.org/learn-more" target="_blank"><img width="625em" src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg"/></a><br />
 	<img width="625em" src="./github-metrics.svg" />
 </p>
 <br>
